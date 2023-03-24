@@ -1,0 +1,25 @@
+{
+  "name": "f2e-spec-zd",
+  "version": "1.0.0",
+  "description": "前端规约",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaothing/f2e-spec-zd.git"
+  },
+  "keywords": [
+    "前端规约"
+  ],
+  "author": "gaothing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaothing/f2e-spec-zd/issues"
+  },
+  "homepage": "https://github.com/gaothing/f2e-spec-zd#readme"
+}
